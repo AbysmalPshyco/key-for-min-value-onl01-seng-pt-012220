@@ -3,5 +3,5 @@
 
 def key_for_min_value(name_hash)
   hash.map {|name, num|}
-  num
+  name
 end
